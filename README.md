@@ -1,5 +1,8 @@
 # EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
-
+```
+Developed by : SOWMIYA N
+Reg No : 212221230106
+```
 AIM: To implement First-Come-First-Serve (FCFS) Scheduling
 
 ALGORITHM:
